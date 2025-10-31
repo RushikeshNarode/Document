@@ -122,7 +122,8 @@ a:4... Print frequency of each character using Java 8 Streams
 9. how to connect to 2 different databases in Spring Boot
 
 **Interview 2:**
-1. Default size of ArrayList ?
+1. Default size of ArrayList ?((ans-The default capacity of an ArrayList is 10 (after the first element is added).
+The default size (number of elements stored) is 0 when you create it.)
 2. Internal working of Hashmap
 3. Method Overriding - can we override static method ?
 4. Method Overriding - Exceptions in Parent class and child class methods
